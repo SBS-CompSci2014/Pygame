@@ -20,7 +20,7 @@ All files in this project may be copyrighted individually, or may have their own
 (2) PER-FILE RULES
 =================
 
-The following files are copyrighted by Sir_Mr_Bman and SBS-CompSci-2014.
+The following files are copyrighted by Sir_Mr_Bman, and SBS-CompSci-2014-15.
 These files ALL have special redistribution terms, as listed below.
 
 - SRC/header.py
